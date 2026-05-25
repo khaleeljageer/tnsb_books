@@ -1,0 +1,5 @@
+google-cloud-vision
+pdf2image
+opencv-python
+pillow
+tqdm

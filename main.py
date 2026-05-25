@@ -14,8 +14,8 @@ from google.cloud import vision
 # CONFIG
 # =========================
 
-INPUT_DIR = "input/Class_02/Term_2"
-OUTPUT_DIR = "output/Class_02/Term_2"
+INPUT_DIR = "input/Class_02/Term_3"
+OUTPUT_DIR = "output/Class_02/Term_3"
 
 DPI = 300
 
